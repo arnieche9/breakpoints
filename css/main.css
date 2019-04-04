@@ -10,14 +10,6 @@ body {
   }
 }
 
-/* ----------- Laptops larger than 1100px wide ----------- */
-@media (min-width: 1100px) {
-
-  body {
-    background: blue;
-  }
-
-}
 
 /* ----------- Monitors larger than 1200px wide ----------- */
 @media (min-width: 1200px) {
