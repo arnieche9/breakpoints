@@ -1,9 +1,22 @@
+@charset "UTF-8";
+body {
+  background: orange;
+}
 
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
 	body {
     background: red;
   }
+}
+
+/* ----------- Laptops larger than 1100px wide ----------- */
+@media (min-width: 1100px) {
+
+  body {
+    background: blue;
+  }
+
 }
 
 /* ----------- Monitors larger than 1200px wide ----------- */
